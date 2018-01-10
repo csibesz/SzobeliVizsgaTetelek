@@ -1,0 +1,2 @@
+# SzobeliVizsgaTetelek
+Szóbeli vizsgatételek Rendszergazdáknak minta
